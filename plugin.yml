@@ -1,0 +1,6 @@
+name: JoinMessage
+version: '1.0'
+author: JDot029
+main: me.jdot029.joinmessage.Main
+apt-version: 1.16
+description: JoinMessage
